@@ -59,7 +59,7 @@ console.log(totalHitFlopMovies.call(person2,25,40,0,0))
 # Apply 
 
 
-#   syntax for Call 
+#   syntax for Apply
 
 function.call(this,[argu1,argu2,argu3])
 
